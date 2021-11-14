@@ -1,4 +1,4 @@
-### Hi there 👋 Behsy Falcon
+### Hi there 👋 I'm Bethsy Falcon
 
 <!--
 **Bethsyf/Bethsyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
