@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Bethsy Falcon
 - 🌱 I'm learning web development
 - 👯 I’m looking to collaborate on projects
+
+[! [Estadísticas de GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = anuraghazra )] (https://github.com//github-readme-stats)
 <!--
 **Bethsyf/Bethsyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
