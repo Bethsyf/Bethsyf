@@ -2,7 +2,8 @@
 - 🌱 I'm learning web development
 - 👯 I’m looking to collaborate on projects
 
-[! [Estadísticas de GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = bethsyf )] (https://github.com/bethsyf/github-readme-stats)
+https://github-readme-stats.vercel.app/api ? Username = bethsyf
+
 **Bethsyf/Bethsyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
