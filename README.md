@@ -1,7 +1,5 @@
-### Hi there 👋 I'm Bethsy Falcon
-- 🌱 I'm learning web development
-- 👯 I’m looking to collaborate on projects
-- I interest to learn more about web development
+### Hola 👋 Soy Bethsy Falcon, Front-End Developer
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bethsyf&theme=blue-green)
 
