@@ -6,4 +6,4 @@
 
 https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Bethsyf&show_icons=true)
