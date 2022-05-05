@@ -6,7 +6,6 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bethsyf&theme=blue-green)
 
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Bethsyf&theme=blue-green)
 
 <h3 align="left">Connect with me:</h3>
