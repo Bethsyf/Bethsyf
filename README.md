@@ -9,12 +9,12 @@
   
   <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Gatc-18&show_icons=true&count_private=true&theme=chartreuse-dark&line_height=27](https://github-readme-stats.vercel.app/api?username=Bethsyf&theme=blue-green">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Bethsyf&theme=blue-green">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Bethsyf&theme=chartreuse-dark&line_height=25&langs_count=3">
 </p>
 </details>
 
-![Your Repository's Stats]()
+
 </p>
 <h3>Connect with me:</h3>
 <p>
