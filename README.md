@@ -7,7 +7,7 @@
 <details open>
  
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Bethsyf&theme=blue-green">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Bethsyf&theme=chartreuse-dark">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Bethsyf&theme=chartreuse-dark&line_height=25&langs_count=3">
 </p>
 </details>
