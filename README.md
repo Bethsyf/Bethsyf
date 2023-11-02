@@ -6,7 +6,7 @@
 
 <div>
  <img src="https://github-readme-stats.vercel.app/api?username=bethsyf&show_icons=true&locale=en&theme=chartreuse-prussian" alt="bethsyf" />
- <img margin-right="50px" src="https://github-readme-stats.vercel.app/api/top-langs?username=bethsyf&show_icons=true&locale=en&theme=chartreuse-prussian&layout=compact" alt="bethsyf" /> 
+ <img margin-left="50px" src="https://github-readme-stats.vercel.app/api/top-langs?username=bethsyf&show_icons=true&locale=en&theme=chartreuse-prussian&layout=compact" alt="bethsyf" /> 
 </div>
 <h3>Connect with me:</h3>
 <p>
