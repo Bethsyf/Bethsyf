@@ -6,6 +6,9 @@
 
 <details open> 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bethsyf&show_icons=true&locale=en&layout=compact" alt="bethsyf" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bethsyf&show_icons=true&locale=en" alt="bethsyf" /></p>
+
+
 <p align = "center"> 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Bethsyf&theme=chartreuse-dark&layout=pie">
   <img src = "https://github-readme-stats.vercel.app/api?username=Bethsyf&theme=chartreuse-dark">
