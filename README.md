@@ -90,14 +90,6 @@ Actualmente estoy retomando y fortaleciendo mi aprendizaje construyendo proyecto
 
 ---
 
-<h3>📊 GitHub Stats:</h3>
-
-<div>
- <img src="https://github-readme-stats.vercel.app/api?username=bethsyf&show_icons=true&theme=chartreuse-dark" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bethsyf&layout=compact&theme=chartreuse-dark" />
-</div>
-
----
 
 <h3>📫 Connect with me:</h3>
 
