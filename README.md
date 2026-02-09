@@ -16,17 +16,6 @@ I enjoy exploring how design, logic and user experience come together to create 
 
 ---
 
-### 💻 What I work with
-
-- React
-- Next.js
-- JavaScript / TypeScript
-- Tailwind CSS
-- Firebase
-- Node.js
-
----
-
 ### 🧠 What I'm currently improving
 
 - Frontend architecture and best practices  
@@ -68,15 +57,6 @@ I love building projects that combine creativity with functionality.
 ✔ Improving code readability and scalability  
 ✔ Writing better documentation  
 ✔ Strengthening programming logic  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=bethsyf&show_icons=true&theme=chartreuse-dark"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bethsyf&layout=compact&theme=chartreuse-dark"/>
-</p>
 
 ---
 
