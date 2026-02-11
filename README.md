@@ -75,7 +75,7 @@ I love building projects that combine creativity with functionality.
 <h3>🌐 Portfolio</h3>
 
 <p>
-👉 <a href="https://portfolio-bethsyfs-projects.vercel.app" target="_blank">
+👉 <a href="https://portfolio-bfb.vercel.app" target="_blank">
 Visit My Portfolio
 </a>
 </p>
