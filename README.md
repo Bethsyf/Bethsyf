@@ -21,7 +21,7 @@ Currently focused on deepening my fullstack knowledge and building a strong port
 
 <h3>💼 Experience Highlights</h3>
 <ul>
-  <li>🏢 1+ year working as a Frontend Developer at <strong>Kutai</strong> — building interfaces with Next.js, TypeScript and Sass</li>
+  <li>🏢 1+ year working as a Frontend Developer at <a href="https://kutai.co/nosotros/">KUTAI</a> — building interfaces with Next.js, TypeScript and Sass</li>
   <li>🛠️ Freelance project for a real client: <a href="https://metalmecanicasportal.vercel.app">MEP — Metalmecánicas El Portal</a></li>
   <li>🐄 Fullstack app: <a href="https://mi-vaquita-app.vercel.app">Mi Vaquita</a> — expense splitting app with REST API, JWT auth and PostgreSQL</li>
 </ul>
